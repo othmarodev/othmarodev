@@ -74,16 +74,23 @@ Designing native apps for Mac & Windows. Building modern websites with the lates
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2800&pause=600&color=00F5FF&center=true&vCenter=true&width=620&lines=Crafting+native+macOS+apps+with+Swift+%2B+SwiftUI;Building+modern+web+experiences+with+the+latest+tech;Designing+APIs%2C+bots%2C+and+automation;Integrating+LLMs+into+real+developer+workflows;Shipping+from+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7+to+the+world" alt="Typing animation" />
 </p>
 
-### 📊 GitHub activity
+### 📊 Live activity
 
+<!-- Live badges — these query GitHub API on every render -->
 <p align="center">
-  <a href="https://github.com/othmarodev">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=othmarodev&theme=tokyonight" alt="Profile details" />
-  </a>
+  <img src="https://img.shields.io/github/followers/othmarodev?label=Followers&style=for-the-badge&logo=github&color=00F5FF&labelColor=000814" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/othmarodev?label=Total%20Stars&style=for-the-badge&logo=github&color=FCD34D&labelColor=000814" alt="Total stars" />
+  <img src="https://img.shields.io/github/last-commit/othmarodev/othmarodev?label=Last%20update&style=for-the-badge&logo=github&color=FF006E&labelColor=000814" alt="Last commit" />
 </p>
+
+<!-- Contribution activity graph — shows real commit trend over time -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=othmarodev&theme=tokyonight" alt="Repos per language" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=othmarodev&theme=tokyonight" alt="Most committed languages" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=othmarodev&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Activity graph" />
+</p>
+
+<!-- Streak stats — actually fetches your live commit streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=othmarodev&theme=tokyonight&hide_border=true&background=1A1B27" alt="Streak stats" />
 </p>
 
 ---
