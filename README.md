@@ -78,9 +78,9 @@ Designing native apps for Mac & Windows. Building modern websites with the lates
 
 <!-- Live badges — these query GitHub API on every render -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/othmarodev?label=Followers&style=for-the-badge&logo=github&color=00F5FF&labelColor=000814" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/othmarodev?label=Total%20Stars&style=for-the-badge&logo=github&color=FCD34D&labelColor=000814" alt="Total stars" />
-  <img src="https://img.shields.io/github/last-commit/othmarodev/othmarodev?label=Last%20update&style=for-the-badge&logo=github&color=FF006E&labelColor=000814" alt="Last commit" />
+  <a href="https://github.com/othmarodev?tab=followers"><img src="https://img.shields.io/github/followers/othmarodev?label=Followers&style=for-the-badge&color=00F5FF&labelColor=000814" alt="Followers" /></a>
+  <a href="https://github.com/othmarodev?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?label=Public%20repos&style=for-the-badge&color=FCD34D&labelColor=000814&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fothmarodev" alt="Public repos" /></a>
+  <a href="https://github.com/othmarodev/othmarodev/commits/main"><img src="https://img.shields.io/github/last-commit/othmarodev/othmarodev?label=Last%20update&style=for-the-badge&color=FF006E&labelColor=000814" alt="Last commit" /></a>
 </p>
 
 <!-- Contribution activity graph — shows real commit trend over time -->
