@@ -50,7 +50,7 @@ Designing native apps for Mac & Windows. Building modern websites with the lates
 
 **Native (Apple)**  
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0099FF?style=flat-square&logo=swift&logoColor=white)
-![AppKit](https://img.shields.io/badge/AppKit-000000?style=flat-square&logo=apple&logoColor=white)
+![AppKit](https://img.shields.io/badge/AppKit-1C1C1E?style=flat-square)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 **Backend & Infra**  
@@ -66,13 +66,24 @@ Designing native apps for Mac & Windows. Building modern websites with the lates
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Claude%20API-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97706?style=flat-square)
+
+### ✨ What I'm into
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2800&pause=600&color=00F5FF&center=true&vCenter=true&width=620&lines=Crafting+native+macOS+apps+with+Swift+%2B+SwiftUI;Building+modern+web+experiences+with+the+latest+tech;Designing+APIs%2C+bots%2C+and+automation;Integrating+LLMs+into+real+developer+workflows;Shipping+from+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7+to+the+world" alt="Typing animation" />
+</p>
 
 ### 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=othmarodev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=14400" alt="Othmaro's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othmarodev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=14400" alt="Top languages" height="170" />
+  <a href="https://github.com/othmarodev">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=othmarodev&theme=tokyonight" alt="Profile details" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=othmarodev&theme=tokyonight" alt="Repos per language" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=othmarodev&theme=tokyonight" alt="Most committed languages" height="180" />
 </p>
 
 ---
