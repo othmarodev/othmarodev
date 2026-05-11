@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Currently shipping <a href="https://filaxy.app"><strong>Filaxy</strong></a> — a native file manager for <strong>Mac & Windows</strong> with the clarity Finder forgot.
+  Currently shipping <a href="https://filaxy.app"><strong>Filaxy</strong></a> — a native <strong>macOS</strong> file manager for power users coming from Windows.
 </p>
 
 <p align="center">
