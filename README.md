@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Othmaro 👋</h1>
-<h3 align="center">Full-stack Engineer from Costa Rica 🇨🇷 · 28 years in IT</h3>
+<h1 align="center">Othmaro Fallas</h1>
+
 <p align="center">
-Designing native apps for Mac & Windows. Building modern websites with the latest tech.<br/>
-<strong>Currently open to freelance work and interesting collaborations.</strong>
+  <strong>Native apps with the precision of macOS.<br/>
+  Web experiences with the soul of cinema.</strong>
 </p>
 
 <p align="center">
@@ -11,8 +11,17 @@ Designing native apps for Mac & Windows. Building modern websites with the lates
   <a href="https://linkedin.com/in/othmarofallas"><img src="https://img.shields.io/badge/LinkedIn-othmarofallas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/othmarodev"><img src="https://img.shields.io/badge/Instagram-@othmarodev-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:othmaro@othmaro.dev"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=othmarodev&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  Software Engineer from <strong>San José, Costa Rica 🇨🇷</strong><br/>
+  <sub>10 years building software · 28 years across IT · Open for freelance & full-time roles.</sub>
+</p>
+
+<p align="center">
+  Currently shipping <a href="https://filaxy.app"><strong>Filaxy</strong></a> — a native file manager for <strong>Mac & Windows</strong> with the clarity Finder forgot.
 </p>
 
 ---
