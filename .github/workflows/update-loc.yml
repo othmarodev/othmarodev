@@ -28,17 +28,15 @@ jobs:
           GH_PAT: ${{ secrets.LOC_PAT }}
         run: |
           set -e
-
           REPOS=$(curl -s \
             -H "Authorization: Bearer $GH_PAT" \
             -H "Accept: application/vnd.github+json" \
-            "https://api.github.com/user/repos?per_page=100&affiliation=owner&type=owner&page=1" \
+            "https://api.github.com/user/repos?per_page=100&affiliation=owner&page=1" \
             | jq -r '.[] | select(.fork==false and .archived==false) | .full_name')
 
           TOTAL=0
           INCLUDED=0
           SKIPPED=0
-
           for repo in $REPOS; do
             name=$(basename "$repo")
             if [ "$repo" = "othmarodev/othmarodev" ]; then
@@ -63,7 +61,6 @@ jobs:
           done
 
           echo "Included: $INCLUDED · Skipped: $SKIPPED · TOTAL: $TOTAL"
-
           FORMATTED=$(printf "%'d" "$TOTAL")
 
           cat > loc.json <<EOF
