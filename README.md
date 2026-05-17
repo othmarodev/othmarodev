@@ -15,6 +15,10 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/othmarodev?tab=repositories"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fothmarodev%2Fothmarodev%2Fmain%2Floc.json" alt="Lines of code shipped across all projects" /></a>
+</p>
+
+<p align="center">
   <a href="https://othmaro.dev"><img src="https://img.shields.io/badge/Website-othmaro.dev-FF6B35?style=flat-square&logoColor=white" alt="Website"></a>
   <a href="https://x.com/Othmaro_dev"><img src="https://img.shields.io/badge/X-@Othmaro__dev-000000?style=flat-square&logo=x" alt="X"></a>
   <a href="https://linkedin.com/in/othmarofallas"><img src="https://img.shields.io/badge/LinkedIn-othmarofallas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
