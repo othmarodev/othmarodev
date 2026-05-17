@@ -1,0 +1,92 @@
+name: Update LOC badge
+
+on:
+  schedule:
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update-loc.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  count:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Install cloc + jq
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq cloc jq
+
+      - name: Count lines across all owned repos
+        env:
+          GH_PAT: ${{ secrets.LOC_PAT }}
+        run: |
+          set -e
+
+          REPOS=$(curl -s \
+            -H "Authorization: Bearer $GH_PAT" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/user/repos?per_page=100&affiliation=owner&type=owner&page=1" \
+            | jq -r '.[] | select(.fork==false and .archived==false) | .full_name')
+
+          TOTAL=0
+          INCLUDED=0
+          SKIPPED=0
+
+          for repo in $REPOS; do
+            name=$(basename "$repo")
+            if [ "$repo" = "othmarodev/othmarodev" ]; then
+              echo "↷ skip $repo (profile repo)"
+              SKIPPED=$((SKIPPED + 1))
+              continue
+            fi
+            echo "::group::counting $repo"
+            if git clone --depth=1 --quiet \
+              "https://x-access-token:$GH_PAT@github.com/$repo.git" \
+              "/tmp/$name" 2>/dev/null; then
+              lines=$(cloc --json --quiet "/tmp/$name" 2>/dev/null | jq -r '(.SUM.code // 0) | floor')
+              echo "  $repo → $lines code lines"
+              TOTAL=$((TOTAL + lines))
+              INCLUDED=$((INCLUDED + 1))
+              rm -rf "/tmp/$name"
+            else
+              echo "  ✗ clone failed for $repo"
+              SKIPPED=$((SKIPPED + 1))
+            fi
+            echo "::endgroup::"
+          done
+
+          echo "Included: $INCLUDED · Skipped: $SKIPPED · TOTAL: $TOTAL"
+
+          FORMATTED=$(printf "%'d" "$TOTAL")
+
+          cat > loc.json <<EOF
+          {
+            "schemaVersion": 1,
+            "label": "lines of code shipped",
+            "message": "$FORMATTED",
+            "color": "FF6B35",
+            "labelColor": "1F2937",
+            "style": "for-the-badge",
+            "namedLogo": "github"
+          }
+          EOF
+          cat loc.json
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add loc.json
+          if git diff --staged --quiet; then
+            echo "loc.json unchanged"
+          else
+            git commit -m "chore(loc): update count to $(jq -r .message loc.json) lines"
+            git push
+          fi
