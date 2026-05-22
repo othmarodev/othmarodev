@@ -45,6 +45,7 @@
 | 🌌 **[othmaro.dev](https://othmaro.dev)** | Personal site — a cinematic 3D portfolio experience | Astro · React · Three.js · GSAP · Tailwind |
 | 🤖 **[Fallaox AutoTrade](https://fallaox.com)** | Auto-trading platform with copy-trading and broker integrations | Node.js · Express · Puppeteer |
 | 🧠 **Fallaox Memory** | Persistent memory layer for Claude — never lose context again | Node.js · Chrome Extension |
+| 🧮 **[Compound Interest Calculator](https://othmarodev.github.io/compound-interest-calculator/)** | Open-source single-file calculator with monthly deposits, custom canvas chart, ES/EN toggle | Vanilla JS · HTML5 Canvas · CSS3 |
 
 ### 🛠️ Tech I work with
 
