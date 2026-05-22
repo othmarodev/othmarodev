@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Software Engineer from <strong>San José, Costa Rica 🇨🇷</strong><br/>
+  Software Architect from <strong>San José, Costa Rica 🇨🇷</strong><br/>
   <sub>10 years building software · 28 years across IT · Open for freelance & remote full-time projects.</sub>
 </p>
 
