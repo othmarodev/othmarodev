@@ -34,12 +34,14 @@
 
 **Filaxy** — A native file manager for macOS with the clarity of a classic file manager and tools Finder doesn't have: dual-pane mode, command palette, duplicate finder, disk usage treemap, and more.
 
-*Built with Swift · SwiftUI · AppKit · Made for power users.*
+*Built solo in 30+ days · **240+ hours** · 14,652 lines of Swift across 51 files · **0 external dependencies**.*
+*Stack: Swift · SwiftUI · AppKit · made for power users.*
 
 ### 💼 Projects
 
 | Project | What it is | Stack |
 |---------|------------|-------|
+| 🏛️ **[TraderLoft](https://traderloft.com)** | Cinematic 3D loft hosting trading products — bots, strategies, courses | Astro · React Three Fiber · Three.js · GLSL · TypeScript |
 | 🌌 **[othmaro.dev](https://othmaro.dev)** | Personal site — a cinematic 3D portfolio experience | Astro · React · Three.js · GSAP · Tailwind |
 | 🤖 **[Fallaox AutoTrade](https://fallaox.com)** | Auto-trading platform with copy-trading and broker integrations | Node.js · Express · Puppeteer |
 | 🧠 **Fallaox Memory** | Persistent memory layer for Claude — never lose context again | Node.js · Chrome Extension |
