@@ -88,7 +88,7 @@
 ### ✨ What I'm into
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=2800&pause=600&color=FF006E&center=true&vCenter=true&width=620&lines=Crafting+native+macOS+apps+with+Swift+%2B+SwiftUI;Building+modern+web+experiences+with+the+latest+tech;Designing+APIs%2C+bots%2C+and+automation;Integrating+LLMs+into+real+developer+workflows;Shipping+from+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7+to+the+world" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=2800&pause=600&color=FF006E&center=true&vCenter=true&width=640&lines=Crafting+native+macOS+apps+with+Swift+%2B+SwiftUI;Building+cinematic+3D+web+with+Three.js+%2B+R3F;Designing+trading+platforms%2C+bots%2C+and+automation;Open-sourcing+tools+for+traders+and+builders;Shipping+from+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7+to+the+world" alt="Typing animation" />
 </p>
 
 ### 📊 Live activity
