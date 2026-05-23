@@ -46,6 +46,7 @@
 | 🤖 **[Fallaox AutoTrade](https://fallaox.com)** | Auto-trading platform with copy-trading and broker integrations | Node.js · Express · Puppeteer |
 | 🧠 **Fallaox Memory** | Persistent memory layer for Claude — never lose context again | Node.js · Chrome Extension |
 | 🧮 **[Compound Interest Calculator](https://othmarodev.github.io/compound-interest-calculator/)** | Open-source single-file calculator with monthly deposits, custom canvas chart, ES/EN toggle | Vanilla JS · HTML5 Canvas · CSS3 |
+| 📐 **[Position Size Calculator](https://othmarodev.github.io/position-size-calculator/)** | Pro trade planner — live FX/crypto/metals, 16 instruments, multi-currency, Entry/SL/TP ready to paste | Vanilla JS · Tailwind · Live APIs |
 
 ### 🛠️ Tech I work with
 
