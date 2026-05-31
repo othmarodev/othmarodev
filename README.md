@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Currently shipping <a href="https://filaxy.app"><strong>Filaxy</strong></a> — a native <strong>macOS</strong> file manager for power users coming from Windows.
+  Currently shipping <a href="https://filaxy.app"><strong>Filaxy Files</strong></a> — a native <strong>macOS</strong> file manager for power users coming from Windows.
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 ### 🚀 Currently building (in public)
 
-**Filaxy** — A native file manager for macOS with the clarity of a classic file manager and tools Finder doesn't have: dual-pane mode, command palette, duplicate finder, disk usage treemap, and more.
+**Filaxy Files** — A native file manager for macOS with the clarity of a classic file manager and tools Finder doesn't have: dual-pane mode, command palette, duplicate finder, disk usage treemap, and more.
 
 *Built just in 30+ days · **240+ hours** · 14,652 lines of Swift across 51 files · **0 external dependencies**.*
 *Stack: Swift · SwiftUI · AppKit · made for power users.*
@@ -41,6 +41,8 @@
 
 | Project | What it is | Stack |
 |---------|------------|-------|
+| 🍎 **[Filaxy Files](https://filaxy.app)** | Native macOS file manager — dual-pane, command palette, duplicate finder, disk usage treemap | Swift · SwiftUI · AppKit |
+| 💰 **[Filaxy Finance](https://filaxy.co)** | Personal finance for the Americas — 22 currencies, PDF import + Claude AI, web + mobile *(in development)* | React · Vite · TS · Tailwind · Supabase · Claude AI · Vercel · (mobile: SwiftUI + Flutter planned) |
 | 🏛️ **[TraderLoft](https://traderloft.com)** | Cinematic 3D loft hosting trading products — bots, strategies, courses | Astro · React Three Fiber · Three.js · GLSL · TypeScript |
 | 🌌 **[othmaro.dev](https://othmaro.dev)** | Personal site — a cinematic 3D portfolio experience | Astro · React · Three.js · GSAP · Tailwind |
 | 🤖 **[Fallaox AutoTrade](https://fallaox.com)** | Auto-trading platform with copy-trading and broker integrations | Node.js · Express · Puppeteer |
