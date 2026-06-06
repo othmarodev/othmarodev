@@ -34,7 +34,7 @@
 
 **Filaxy Files** — A native file manager for macOS with the clarity of a classic file manager and tools Finder doesn't have: dual-pane mode, command palette, duplicate finder, disk usage treemap, and more.
 
-*Built just in 30+ days · **240+ hours** · 14,652 lines of Swift across 51 files · **0 external dependencies**.*
+*Built just in 30+ days · **240+ hours** · 33,104 lines of Swift across 51 files · **0 external dependencies**.*
 *Stack: Swift · SwiftUI · AppKit · made for power users.*
 
 ### 💼 Projects
