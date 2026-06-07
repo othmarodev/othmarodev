@@ -8,7 +8,7 @@
 <p align="center">
   Software Architect & Founder of <strong>Filaxy Labs, Inc.</strong> (Delaware 🇺🇸)<br/>
   Based in <strong>San José, Costa Rica 🇨🇷</strong><br/>
-  <sub>10 years building software · 28 years across IT · Open for select freelance & remote roles.</sub>
+  <sub>10 years building software · 28 years across IT · Open to freelance projects & remote roles.</sub>
 </p>
 
 <p align="center">
