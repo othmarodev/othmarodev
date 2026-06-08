@@ -42,10 +42,12 @@
 
 | Project | What it is | Stack |
 |---------|------------|-------|
+| 🏛️ **[Filaxy Labs, Inc.](https://filaxylabs.co)** | Delaware C-Corp — premium native and web software for the Americas | Astro · React · TypeScript · Three.js · Tailwind |
 | 🍎 **[Filaxy Files](https://filaxy.app)** | Native macOS file manager — dual-pane, command palette, duplicate finder, disk usage treemap | Swift · SwiftUI · AppKit |
 | 💰 **[Filaxy Finance](https://filaxy.co)** | Personal finance for the Americas — 22 currencies, PDF import + Claude AI, web + mobile *(in development)* | React · Vite · TS · Tailwind · Supabase · Claude AI · Vercel · (mobile: SwiftUI + Flutter planned) |
 | 🏛️ **[TraderLoft](https://traderloft.com)** | Cinematic 3D loft hosting trading products — bots, strategies, courses | Astro · React Three Fiber · Three.js · GLSL · TypeScript |
 | 🌌 **[othmaro.dev](https://othmaro.dev)** | Personal site — a cinematic 3D portfolio experience | Astro · React · Three.js · GSAP · Tailwind |
+| ✨ **[morph-hero](https://github.com/othmarodev/morph-hero)** | Open-source cinematic hero — particles morph between your country flag and your name · [live demo](https://morph-hero.othmaro.dev) | React · React Three Fiber · Three.js · TypeScript |
 | 🤖 **[Fallaox AutoTrade](https://fallaox.com)** | Auto-trading platform with copy-trading and broker integrations | Node.js · Express · Puppeteer |
 | 🧠 **Fallaox Memory** | Persistent memory layer for Claude — never lose context again | Node.js · Chrome Extension |
 | 🧮 **[Compound Interest Calculator](https://othmarodev.github.io/compound-interest-calculator/)** | Open-source single-file calculator with monthly deposits, custom canvas chart, ES/EN toggle | Vanilla JS · HTML5 Canvas · CSS3 |
