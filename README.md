@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/othmarodev?tab=repositories"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fothmarodev%2Fothmarodev%2Fmain%2Floc.json&cacheSeconds=300" alt="Lines of code shipped across all projects" /></a>
+  <a href="https://github.com/othmarodev?tab=repositories"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fothmarodev%2Fothmarodev%2Fmain%2Floc.json&cacheSeconds=300&v=2" alt="Lines of code shipped across all projects" /></a>
 </p>
 
 <p align="center">
