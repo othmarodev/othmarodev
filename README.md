@@ -26,7 +26,7 @@
   <a href="https://instagram.com/othmarodev"><img src="https://img.shields.io/badge/Instagram-@othmarodev-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:othmaro@othmaro.dev"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=othmarodev&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=othmarodev.othmarodev&left_color=gray&right_color=blueviolet&left_text=Profile%20views" alt="Profile views" />
 </p>
 
 ---
