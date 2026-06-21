@@ -46,6 +46,7 @@
 | 🍎 **[Filaxy Files](https://filaxy.app)** | Native macOS file manager — dual-pane, command palette, duplicate finder, disk usage treemap | Swift · SwiftUI · AppKit |
 | 💰 **[Filaxy Finance](https://filaxy.co)** | Personal finance for the Americas — 22 currencies, PDF import + Claude AI, web + mobile *(in development)* | React · Vite · TS · Tailwind · Supabase · Claude AI · Vercel · (mobile: SwiftUI + Flutter planned) |
 | 📄 **[Filaxy PDF Converter](https://github.com/othmarodev/filaxy-pdf-converter)** | Free, offline macOS app — high-fidelity PDF → Word (.docx) with an original coordinate-mapping engine + fidelity verification · [download](https://github.com/othmarodev/filaxy-pdf-converter/releases/latest) | Swift · SwiftUI · Python · PyMuPDF · PyInstaller |
+| 🛒 **[filaxy.shop](https://filaxy.shop)** | Directory of Filaxy Labs premium software — curated catalog of free apps + paid downloads via Lemon Squeezy | Astro · TypeScript · Tailwind · Lemon Squeezy |
 | 🏛️ **[TraderLoft](https://traderloft.com)** | Cinematic 3D loft hosting trading products — bots, strategies, courses | Astro · React Three Fiber · Three.js · GLSL · TypeScript |
 | 🌌 **[othmaro.dev](https://othmaro.dev)** | Personal site — a cinematic 3D portfolio experience | Astro · React · Three.js · GSAP · Tailwind |
 | ✨ **[morph-hero](https://github.com/othmarodev/morph-hero)** | Open-source cinematic hero — particles morph between your country flag and your name · [live demo](https://morph-hero.othmaro.dev) | React · React Three Fiber · Three.js · TypeScript |
