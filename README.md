@@ -51,6 +51,7 @@
 | 🌌 **[othmaro.dev](https://othmaro.dev)** | Personal site — a cinematic 3D portfolio experience | Astro · React · Three.js · GSAP · Tailwind |
 | ✨ **[morph-hero](https://github.com/othmarodev/morph-hero)** | Open-source cinematic hero — particles morph between your country flag and your name · [live demo](https://morph-hero.othmaro.dev) | React · React Three Fiber · Three.js · TypeScript |
 | 📊 **[profile-counter](https://github.com/othmarodev/profile-counter)** | Self-hosted GitHub profile views counter — drop-in komarev replacement, you own the URL and data · [live demo](https://counter.othmaro.dev) | Vercel Edge · Upstash Redis · JavaScript |
+| 🔔 **[Filaxy Herald](https://github.com/othmarodev/filaxy-herald)** | Open-source bot that turns your GitHub activity into AI-written build-in-public posts on X — one-tap Telegram approval, branded images, fully self-hosted | Vercel · Claude AI · Upstash Redis · TypeScript |
 | 🤖 **[Fallaox AutoTrade](https://fallaox.com)** | Auto-trading platform with copy-trading and broker integrations | Node.js · Express · Puppeteer |
 | 🧠 **Fallaox Memory** | Persistent memory layer for Claude — never lose context again | Node.js · Chrome Extension |
 | 🧮 **[Compound Interest Calculator](https://othmarodev.github.io/compound-interest-calculator/)** | Open-source single-file calculator with monthly deposits, custom canvas chart, ES/EN toggle | Vanilla JS · HTML5 Canvas · CSS3 |
