@@ -49,6 +49,7 @@
 | 🌐 **[Filaxy PDF Converter — site](https://pdfconverter.filaxy.net)** | Landing for Filaxy PDF Converter — features, verify motion, download · [repo](https://github.com/othmarodev/filaxy-pdf-converter-site) | HTML · Vanilla JS · CSS · Cloudflare Pages |
 | 🔐 **[Filaxy Vault](https://github.com/othmarodev/filaxy-vault)** | Local-first, zero-cloud password manager for macOS — encrypted vault never leaves your device, Argon2id + XChaCha20-Poly1305 *(WIP)* · [download](https://github.com/othmarodev/filaxy-vault/releases/latest) | Rust · Tauri · TypeScript · Vite · Tailwind |
 | 🌐 **[Filaxy Vault — site](https://vault.filaxy.net)** | Landing for Filaxy Vault — features, security architecture, download · [repo](https://github.com/othmarodev/filaxy-vault-site) | HTML · Vanilla JS · CSS · Cloudflare Pages |
+| 🧠 **[Filaxy Memory AI](https://github.com/othmarodev/filaxy-memory-ai)** | Local-first memory for your AI conversations — Claude, ChatGPT, Gemini, Copilot, Perplexity and Claude Code, captured automatically and stored only on your device | Rust · Tauri · TypeScript · Vite · Tailwind |
 | 🛒 **[filaxy.shop](https://filaxy.shop)** | Directory of Filaxy Labs premium software — curated catalog of free apps + paid downloads via Lemon Squeezy | Astro · TypeScript · Tailwind · Lemon Squeezy |
 | 🔔 **[Filaxy Herald](https://github.com/othmarodev/filaxy-herald)** | Open-source bot that turns your GitHub activity into AI-written build-in-public posts on X — one-tap Telegram approval, branded images, fully self-hosted | Vercel · Claude AI · Upstash Redis · TypeScript |
 | 🏛️ **[TraderLoft](https://traderloft.com)** | Cinematic 3D loft hosting trading products — bots, strategies, courses | Astro · React Three Fiber · Three.js · GLSL · TypeScript |
@@ -56,7 +57,6 @@
 | ✨ **[morph-hero](https://github.com/othmarodev/morph-hero)** | Open-source cinematic hero — particles morph between your country flag and your name · [live demo](https://morph-hero.othmaro.dev) | React · React Three Fiber · Three.js · TypeScript |
 | 📊 **[profile-counter](https://github.com/othmarodev/profile-counter)** | Self-hosted GitHub profile views counter — drop-in komarev replacement, you own the URL and data · [live demo](https://counter.othmaro.dev) | Vercel Edge · Upstash Redis · JavaScript |
 | 🤖 **[Fallaox AutoTrade](https://fallaox.com)** | Auto-trading platform with copy-trading and broker integrations | Node.js · Express · Puppeteer |
-| 🧠 **Fallaox Memory** | Persistent memory layer for Claude — never lose context again | Node.js · Chrome Extension |
 | 🧮 **[Compound Interest Calculator](https://othmarodev.github.io/compound-interest-calculator/)** | Open-source single-file calculator with monthly deposits, custom canvas chart, ES/EN toggle | Vanilla JS · HTML5 Canvas · CSS3 |
 | 📐 **[Position Size Calculator](https://othmarodev.github.io/position-size-calculator/)** | Pro trade planner — live FX/crypto/metals, 16 instruments, multi-currency, Entry/SL/TP ready to paste | Vanilla JS · Tailwind · Live APIs |
 
