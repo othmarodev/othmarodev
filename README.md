@@ -42,7 +42,7 @@
 
 | Project | What it is | Stack |
 |---------|------------|-------|
-| 🏡 **[Tico Estates™](https://ticoestates.com)** | Costa Rica real estate marketplace — free listings, sales/rentals/vacation, verified sellers | Next.js · React · TypeScript · Supabase · Tailwind |
+| 🏡 **[Terralaxy™](https://terralaxy.com)** | Costa Rica real estate marketplace — free listings, sales/rentals/vacation, verified sellers | Next.js · React · TypeScript · Supabase · Tailwind |
 | 🏛️ **[Filaxy Labs, Inc.](https://filaxylabs.co)** | Delaware C-Corp — premium native and web software for the Americas | Astro · React · TypeScript · Three.js · Tailwind |
 | 🍎 **[Filaxy Files](https://filaxy.app)** | Native macOS file manager — dual-pane, command palette, duplicate finder, disk usage treemap | Swift · SwiftUI · AppKit |
 | 💰 **[Filaxy Finance](https://filaxy.co)** | Personal finance for the Americas — 22 currencies, PDF import + Claude AI, web + mobile *(in development)* | React · Vite · TS · Tailwind · Supabase · Claude AI · Vercel · (mobile: SwiftUI + Flutter planned) |
