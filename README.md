@@ -45,6 +45,7 @@
 | 🎠 **[City Play Kids CR](https://cityplaykidscr.com)** | Kids entertainment center Costa Rica — bookings, packages, cinematic 3D hero | Vite · React · Framer Motion · React Three Fiber · Tailwind |
 | 🏡 **[Terralaxy™](https://terralaxy.com)** | Costa Rica real estate marketplace — free listings, sales/rentals/vacation, verified sellers | Next.js · React · TypeScript · Supabase · Tailwind |
 | 🏛️ **[Filaxy Labs, Inc.](https://filaxylabs.co)** | Delaware C-Corp — premium native and web software for the Americas | Astro · React · TypeScript · Three.js · Tailwind |
+| 🧮 **[Filaxy Contadores](https://github.com/othmarodev/filaxy-contadores)** | Accounting SaaS for Costa Rica — invoicing, tax filing, client management | React · TypeScript · Supabase · Tailwind |
 | 🍎 **[Filaxy Files](https://filaxy.app)** | Native macOS file manager — dual-pane, command palette, duplicate finder, disk usage treemap | Swift · SwiftUI · AppKit |
 | 💰 **[Filaxy Finance](https://filaxy.co)** | Personal finance for the Americas — 22 currencies, PDF import + Claude AI, web + mobile *(in development)* | React · Vite · TS · Tailwind · Supabase · Claude AI · Vercel · (mobile: SwiftUI + Flutter planned) |
 | 📄 **[Filaxy PDF Converter](https://github.com/othmarodev/filaxy-pdf-converter)** | Free, offline macOS app — high-fidelity PDF → Word (.docx) with an original coordinate-mapping engine + fidelity verification · [download](https://github.com/othmarodev/filaxy-pdf-converter/releases/latest) | Swift · SwiftUI · Python · PyMuPDF · PyInstaller |
