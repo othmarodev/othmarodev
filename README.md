@@ -42,7 +42,7 @@
 
 | Project | What it is | Stack |
 |---------|------------|-------|
-| 🎠 **[City Play Kids CR](https://cityplaykidscr.com)** | Kids entertainment center Costa Rica — bookings, packages, cinematic 3D hero | Next.js · React · TypeScript · Supabase · Three.js · Tailwind |
+| 🎠 **[City Play Kids CR](https://cityplaykidscr.com)** | Kids entertainment center Costa Rica — bookings, packages, cinematic 3D hero | Vite · React · Framer Motion · React Three Fiber · Tailwind |
 | 🏡 **[Terralaxy™](https://terralaxy.com)** | Costa Rica real estate marketplace — free listings, sales/rentals/vacation, verified sellers | Next.js · React · TypeScript · Supabase · Tailwind |
 | 🏛️ **[Filaxy Labs, Inc.](https://filaxylabs.co)** | Delaware C-Corp — premium native and web software for the Americas | Astro · React · TypeScript · Three.js · Tailwind |
 | 🍎 **[Filaxy Files](https://filaxy.app)** | Native macOS file manager — dual-pane, command palette, duplicate finder, disk usage treemap | Swift · SwiftUI · AppKit |
