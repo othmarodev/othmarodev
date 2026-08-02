@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  Currently shipping <a href="https://filaxy.app"><strong>Filaxy Files</strong></a> — a native <strong>macOS</strong> file manager for power users coming from Windows.
+  Currently Launching on the market for sale <a href="https://filaxy.app"><strong>Filaxy Files</strong></a> — a native <strong>macOS</strong> file manager for power users coming from Windows.
 </p>
 
 <p align="center">
