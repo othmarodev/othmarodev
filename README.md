@@ -42,6 +42,7 @@
 
 | Project | What it is | Stack |
 |---------|------------|-------|
+| 📚 **[Su Contador en CR](https://sucontadorencr.com)** | Site for a licensed Private Accountant in Costa Rica — 3D hero with floating ledger books, ES/EN bilingual | Astro · Tailwind · GSAP · Three.js |
 | 🧾 **[Filaxy Factura](https://factura.filaxy.app)** | Electronic invoicing for Costa Rica — Hacienda compliance without full accounting, XAdES-EPES signing + CABYS + public invoicing API | Next.js · React · TypeScript · Supabase · Cloudflare Workers · Tailwind |
 | 🎠 **[City Play Kids CR](https://cityplaykidscr.com)** | Kids entertainment center Costa Rica — bookings, packages, cinematic 3D hero | Vite · React · Framer Motion · React Three Fiber · Tailwind |
 | 🏡 **[Terralaxy™](https://terralaxy.com)** | Costa Rica real estate marketplace — free listings, sales/rentals/vacation, verified sellers | Next.js · React · TypeScript · Supabase · Tailwind |
