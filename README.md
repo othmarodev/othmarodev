@@ -41,7 +41,7 @@
 
 | Project | What it is | Stack |
 |---------|------------|-------|
-| 🪐 **[Filaxy™ Orbit](https://orbit.filaxy.app)** | Multi-tenant SaaS that auto-publishes video to Instagram, Facebook and TikTok at once — talks directly to Meta Graph API and TikTok Content Posting API, no third-party scheduler. Ships its own public REST API (`POST /api/publish`, Bearer token) so other apps can trigger posts programmatically | Cloudflare Workers · D1 · R2 · Vanilla JS |
+| 🪐 **[Filaxy™ Orbit](https://orbit.filaxy.app)** | Multi-tenant SaaS that auto-publishes video to Instagram, Facebook and TikTok at once — talks directly to Meta Graph API and TikTok Content Posting API, no third-party scheduler. Ships its own public REST API (`POST /api/publish`, Bearer token) so other apps can trigger posts programmatically | Cloudflare Workers · D1 · R2 · Durable Objects · Cloudflare Pages · Vanilla JS · HTML5 Canvas · Three.js · GSAP · Google OAuth · Meta Graph API · TikTok Content Posting API · Cloudflare Turnstile · Claude API · Resend |
 | 📚 **[Su Contador en CR](https://sucontadorencr.com)** | Site for a licensed Private Accountant in Costa Rica — 3D hero with floating ledger books, ES/EN bilingual | Astro · Tailwind · GSAP · Three.js |
 | 🧾 **[Filaxy Factura](https://factura.filaxy.app)** | Electronic invoicing for Costa Rica — Hacienda compliance without full accounting, XAdES-EPES signing + CABYS + public invoicing API | Next.js · React · TypeScript · Supabase · Cloudflare Workers · Tailwind |
 | 🎠 **[City Play Kids CR](https://cityplaykidscr.com)** | Kids entertainment center Costa Rica — bookings, packages, cinematic 3D hero | Vite · React · Framer Motion · React Three Fiber · Tailwind |
