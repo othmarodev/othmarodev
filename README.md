@@ -30,12 +30,13 @@
 
 ---
 
-### 🚀 Currently building (in public)
+### 🏙️ Contribution City
 
-**Filaxy Files** — A native file manager for macOS with the clarity of a classic file manager and tools Finder doesn't have: dual-pane mode, command palette, duplicate finder, disk usage treemap, and more.
+<p align="center">
+  <img src="https://contribution-city.vercel.app/city.svg" alt="Contribution City: my GitHub contributions as a living skyline" width="880">
+</p>
 
-*Built just in 30+ days · **240+ hours** · 33,104 lines of Swift across 95 files · **0 external dependencies**.*
-*Stack: Swift · SwiftUI · AppKit · made for power users.*
+<p align="center"><sub>Every block is one real day of work and its height is that day's contributions. Level, XP and streak come straight from my GitHub activity, and the city rebuilds itself every hour.</sub></p>
 
 ### 💼 Projects
 
