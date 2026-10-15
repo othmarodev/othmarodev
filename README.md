@@ -128,16 +128,6 @@
   <a href="https://github.com/othmarodev/othmarodev/commits/main"><img src="https://img.shields.io/github/last-commit/othmarodev/othmarodev?label=Last%20update&style=for-the-badge&color=FF006E&labelColor=000814" alt="Last commit" /></a>
 </p>
 
-<!-- Contribution activity graph — shows real commit trend over time -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=othmarodev&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Activity graph" />
-</p>
-
-<!-- Streak stats — actually fetches your live commit streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=othmarodev&theme=tokyonight&hide_border=true&background=1A1B27" alt="Streak stats" />
-</p>
-
 ---
 
 <p align="center">
