@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Software Architect & Founder of <strong>Filaxy® Labs, Inc.</strong> (Delaware 🇺🇸)<br/>
+  Software Architect & Founder of <strong>Filaxy Labs, Inc.</strong> (Delaware 🇺🇸)<br/>
   Based in <strong>San José, Costa Rica 🇨🇷</strong><br/>
   <sub>10 years building software · 28 years across IT · Open to freelance projects & remote roles.</sub>
 </p>
@@ -48,7 +48,7 @@
 | 🧾 **[Filaxy® Factura](https://factura.filaxy.app)** | Electronic invoicing for Costa Rica — Hacienda compliance without full accounting, XAdES-EPES signing + CABYS + public invoicing API | Next.js · React · TypeScript · Supabase · Cloudflare Workers · Tailwind |
 | 🎠 **[City Play Kids CR](https://cityplaykidscr.com)** | Kids entertainment center Costa Rica — bookings, packages, cinematic 3D hero | Vite · React · Framer Motion · React Three Fiber · Tailwind |
 | 🏡 **[Terralaxy™](https://terralaxy.com)** | Costa Rica real estate marketplace — free listings, sales/rentals/vacation, verified sellers | Next.js · React · TypeScript · Supabase · Tailwind |
-| 🏛️ **[Filaxy® Labs, Inc.](https://filaxylabs.co)** | Delaware C-Corp — premium native and web software for the Americas | Astro · React · TypeScript · Three.js · Tailwind |
+| 🏛️ **[Filaxy Labs, Inc.](https://filaxylabs.co)** | Delaware C-Corp — premium native and web software for the Americas | Astro · React · TypeScript · Three.js · Tailwind |
 | 🧮 **[Filaxy® Contadores](https://contadores.filaxy.app)** | Accounting SaaS for Costa Rica — invoicing, tax filing, client management | React · TypeScript · Supabase · Tailwind |
 | 🍎 **[Filaxy® Files](https://filaxy.app)** | Native macOS file manager — dual-pane, command palette, duplicate finder, disk usage treemap | Swift · SwiftUI · AppKit |
 | 💰 **[Filaxy® Finance](https://filaxy.co)** | Personal finance for the Americas — 22 currencies, PDF import + Claude AI, web + mobile *(in development)* | React · Vite · TS · Tailwind · Supabase · Claude AI · Vercel · (mobile: SwiftUI + Flutter planned) |
