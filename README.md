@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  Software Architect & Founder of <strong>Filaxy Labs, Inc.</strong> (Delaware 🇺🇸)<br/>
+  Software Architect & Founder of <strong>Filaxy® Labs, Inc.</strong> (Delaware 🇺🇸)<br/>
   Based in <strong>San José, Costa Rica 🇨🇷</strong><br/>
   <sub>10 years building software · 28 years across IT · Open to freelance projects & remote roles.</sub>
 </p>
 
 <p align="center">
-  Currently Launching on the market for sale <a href="https://filaxy.app"><strong>Filaxy Files</strong></a> — a native <strong>macOS</strong> file manager for power users coming from Windows.
+  Currently Launching on the market for sale <a href="https://filaxy.app"><strong>Filaxy® Files</strong></a> — a native <strong>macOS</strong> file manager for power users coming from Windows.
 </p>
 
 <p align="center">
@@ -45,20 +45,20 @@
 | 💼 **[Filaxy® Jobs](https://jobs.filaxy.app)** | AI job-search SaaS, bring-your-own-key (your own Anthropic, OpenAI or Gemini key, encrypted at rest — AI cost never lands on the platform). Paste a job description and get a tailored CV + cover letter, ATS score and keyword gaps, plus a kanban application tracker, job discovery through real public APIs (never LinkedIn), LinkedIn profile optimizer, CV translator, mock interviews, and a Chrome extension that autofills application forms (LinkedIn Easy Apply, Greenhouse, Lever, Workday) — the final submit is always the person's, never automated. Free to use | Cloudflare Workers · D1 · R2 · Web Crypto (AES-GCM) · Server-rendered dashboard · Next.js · React · Tailwind · Framer Motion · Chrome Extension · Claude API · OpenAI API · Gemini API |
 | 🪐 **[Filaxy® Orbit](https://orbit.filaxy.app)** | Multi-tenant SaaS that auto-publishes video to Instagram, Facebook and TikTok at once — talks directly to Meta Graph API and TikTok Content Posting API, no third-party scheduler. Ships its own public REST API (`POST /api/publish`, Bearer token) so other apps can trigger posts programmatically | Cloudflare Workers · D1 · R2 · Durable Objects · Cloudflare Pages · Vanilla JS · HTML5 Canvas · Three.js · GSAP · Google OAuth · Meta Graph API · TikTok Content Posting API · Cloudflare Turnstile · Claude API · Resend |
 | 📚 **[Su Contador en CR](https://sucontadorencr.com)** | Site for a licensed Private Accountant in Costa Rica — 3D hero with floating ledger books, ES/EN bilingual | Astro · Tailwind · GSAP · Three.js |
-| 🧾 **[Filaxy Factura](https://factura.filaxy.app)** | Electronic invoicing for Costa Rica — Hacienda compliance without full accounting, XAdES-EPES signing + CABYS + public invoicing API | Next.js · React · TypeScript · Supabase · Cloudflare Workers · Tailwind |
+| 🧾 **[Filaxy® Factura](https://factura.filaxy.app)** | Electronic invoicing for Costa Rica — Hacienda compliance without full accounting, XAdES-EPES signing + CABYS + public invoicing API | Next.js · React · TypeScript · Supabase · Cloudflare Workers · Tailwind |
 | 🎠 **[City Play Kids CR](https://cityplaykidscr.com)** | Kids entertainment center Costa Rica — bookings, packages, cinematic 3D hero | Vite · React · Framer Motion · React Three Fiber · Tailwind |
 | 🏡 **[Terralaxy™](https://terralaxy.com)** | Costa Rica real estate marketplace — free listings, sales/rentals/vacation, verified sellers | Next.js · React · TypeScript · Supabase · Tailwind |
-| 🏛️ **[Filaxy Labs, Inc.](https://filaxylabs.co)** | Delaware C-Corp — premium native and web software for the Americas | Astro · React · TypeScript · Three.js · Tailwind |
-| 🧮 **[Filaxy Contadores](https://contadores.filaxy.app)** | Accounting SaaS for Costa Rica — invoicing, tax filing, client management | React · TypeScript · Supabase · Tailwind |
-| 🍎 **[Filaxy Files](https://filaxy.app)** | Native macOS file manager — dual-pane, command palette, duplicate finder, disk usage treemap | Swift · SwiftUI · AppKit |
-| 💰 **[Filaxy Finance](https://filaxy.co)** | Personal finance for the Americas — 22 currencies, PDF import + Claude AI, web + mobile *(in development)* | React · Vite · TS · Tailwind · Supabase · Claude AI · Vercel · (mobile: SwiftUI + Flutter planned) |
-| 📄 **[Filaxy PDF Converter](https://github.com/othmarodev/filaxy-pdf-converter)** | Free, offline macOS app — high-fidelity PDF → Word (.docx) with an original coordinate-mapping engine + fidelity verification · [download](https://github.com/othmarodev/filaxy-pdf-converter/releases/latest) | Swift · SwiftUI · Python · PyMuPDF · PyInstaller |
-| 🌐 **[Filaxy PDF Converter — site](https://pdfconverter.filaxy.net)** | Landing for Filaxy PDF Converter — features, verify motion, download · [repo](https://github.com/othmarodev/filaxy-pdf-converter-site) | HTML · Vanilla JS · CSS · Cloudflare Pages |
-| 🔐 **[Filaxy Vault](https://github.com/othmarodev/filaxy-vault)** | Local-first, zero-cloud password manager for macOS — encrypted vault never leaves your device, Argon2id + XChaCha20-Poly1305 *(WIP)* · [download](https://github.com/othmarodev/filaxy-vault/releases/latest) | Rust · Tauri · TypeScript · Vite · Tailwind |
-| 🌐 **[Filaxy Vault — site](https://vault.filaxy.net)** | Landing for Filaxy Vault — features, security architecture, download · [repo](https://github.com/othmarodev/filaxy-vault-site) | HTML · Vanilla JS · CSS · Cloudflare Pages |
-| 🧠 **[Filaxy Memory AI](https://github.com/othmarodev/filaxy-memory-ai)** | Local-first memory for your AI conversations — Claude, ChatGPT, Gemini, Copilot, Perplexity and Claude Code, captured automatically and stored only on your device | Rust · Tauri · TypeScript · Vite · Tailwind |
-| 🛒 **[filaxy.shop](https://filaxy.shop)** | Directory of Filaxy Labs premium software — curated catalog of free apps + paid downloads via Lemon Squeezy | Astro · TypeScript · Tailwind · Lemon Squeezy |
-| 🔔 **[Filaxy Herald](https://github.com/othmarodev/filaxy-herald)** | Open-source bot that turns your GitHub activity into AI-written build-in-public posts on X — one-tap Telegram approval, branded images, fully self-hosted | Vercel · Claude AI · Upstash Redis · TypeScript |
+| 🏛️ **[Filaxy® Labs, Inc.](https://filaxylabs.co)** | Delaware C-Corp — premium native and web software for the Americas | Astro · React · TypeScript · Three.js · Tailwind |
+| 🧮 **[Filaxy® Contadores](https://contadores.filaxy.app)** | Accounting SaaS for Costa Rica — invoicing, tax filing, client management | React · TypeScript · Supabase · Tailwind |
+| 🍎 **[Filaxy® Files](https://filaxy.app)** | Native macOS file manager — dual-pane, command palette, duplicate finder, disk usage treemap | Swift · SwiftUI · AppKit |
+| 💰 **[Filaxy® Finance](https://filaxy.co)** | Personal finance for the Americas — 22 currencies, PDF import + Claude AI, web + mobile *(in development)* | React · Vite · TS · Tailwind · Supabase · Claude AI · Vercel · (mobile: SwiftUI + Flutter planned) |
+| 📄 **[Filaxy® PDF Converter](https://github.com/othmarodev/filaxy-pdf-converter)** | Free, offline macOS app — high-fidelity PDF → Word (.docx) with an original coordinate-mapping engine + fidelity verification · [download](https://github.com/othmarodev/filaxy-pdf-converter/releases/latest) | Swift · SwiftUI · Python · PyMuPDF · PyInstaller |
+| 🌐 **[Filaxy® PDF Converter — site](https://pdfconverter.filaxy.net)** | Landing for Filaxy® PDF Converter — features, verify motion, download · [repo](https://github.com/othmarodev/filaxy-pdf-converter-site) | HTML · Vanilla JS · CSS · Cloudflare Pages |
+| 🔐 **[Filaxy® Vault](https://github.com/othmarodev/filaxy-vault)** | Local-first, zero-cloud password manager for macOS — encrypted vault never leaves your device, Argon2id + XChaCha20-Poly1305 *(WIP)* · [download](https://github.com/othmarodev/filaxy-vault/releases/latest) | Rust · Tauri · TypeScript · Vite · Tailwind |
+| 🌐 **[Filaxy® Vault — site](https://vault.filaxy.net)** | Landing for Filaxy® Vault — features, security architecture, download · [repo](https://github.com/othmarodev/filaxy-vault-site) | HTML · Vanilla JS · CSS · Cloudflare Pages |
+| 🧠 **[Filaxy® Memory AI](https://github.com/othmarodev/filaxy-memory-ai)** | Local-first memory for your AI conversations — Claude, ChatGPT, Gemini, Copilot, Perplexity and Claude Code, captured automatically and stored only on your device | Rust · Tauri · TypeScript · Vite · Tailwind |
+| 🛒 **[filaxy.shop](https://filaxy.shop)** | Directory of Filaxy® Labs premium software — curated catalog of free apps + paid downloads via Lemon Squeezy | Astro · TypeScript · Tailwind · Lemon Squeezy |
+| 🔔 **[Filaxy® Herald](https://github.com/othmarodev/filaxy-herald)** | Open-source bot that turns your GitHub activity into AI-written build-in-public posts on X — one-tap Telegram approval, branded images, fully self-hosted | Vercel · Claude AI · Upstash Redis · TypeScript |
 | 🏛️ **[TraderLoft](https://traderloft.com)** | Cinematic 3D loft hosting trading products — bots, strategies, courses | Astro · React Three Fiber · Three.js · GLSL · TypeScript |
 | 🌌 **[othmaro.dev](https://othmaro.dev)** | Personal site — a cinematic 3D portfolio experience | Astro · React · Three.js · GSAP · Tailwind |
 | ✨ **[morph-hero](https://github.com/othmarodev/morph-hero)** | Open-source cinematic hero — particles morph between your country flag and your name · [live demo](https://morph-hero.othmaro.dev) | React · React Three Fiber · Three.js · TypeScript |
