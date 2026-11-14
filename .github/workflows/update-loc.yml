@@ -48,7 +48,14 @@ jobs:
             if git clone --depth=1 --quiet \
               "https://x-access-token:$GH_PAT@github.com/$repo.git" \
               "/tmp/$name" 2>/dev/null; then
-              lines=$(cloc --json --quiet "/tmp/$name" 2>/dev/null | jq -r '(.SUM.code // 0) | floor')
+              # --timeout 60: big files (e.g. a 1.6k-line .tsx) exceeded cloc's default per-file
+              # timeout and corrupted the JSON output. Never write a partial total: abort instead.
+              if ! cloc --json --quiet --timeout 60 "/tmp/$name" > "/tmp/$name.json" 2> "/tmp/$name.err" \
+                 || ! lines=$(jq -er '(.SUM.code // 0) | floor' "/tmp/$name.json" 2>/dev/null); then
+                echo "::error::cloc failed for $repo"
+                head -c 400 "/tmp/$name.err" || true
+                exit 1
+              fi
               echo "  $repo → $lines code lines"
               TOTAL=$((TOTAL + lines))
               INCLUDED=$((INCLUDED + 1))
